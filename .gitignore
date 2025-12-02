@@ -1,0 +1,5 @@
+﻿# Build artifacts
+*.exe
+# VS Code (optional)
+.vscode/
+
